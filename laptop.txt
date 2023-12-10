@@ -1,0 +1,9 @@
+Razer Blade Pro 17, Razer, $2000.0, 90, 16, i7 7th Gen, GTX 3060
+ZENBOOK Pro Duo, ASUS, $1200.0, 10, 12, I7 PROCESSOR, GTX 3037
+Swift 7 SF714-51T, Acer, $900.0, 70, 8, i5 9th Gen, GTX 3070
+Macbook Pro 16, Apple, $3500.0, 98, 8, i5 9th Gen, GTX 3070
+XPS 15 9570, Dell, $1976.0, 111, 16, i5 9th Gen, GTX 3070
+Nitro 5, Nitro, $1200.0, 10, 16, i7 11th gen, GTX 3070
+Alienware M15, Alienware, $1978.0, 50, 8, i5 9th Gen, GTX 3070
+Surface Laptop 4, Microsoft, $1500.0, 38, 16, i7 11th Gen, GTX 3060
+mackbook 15, apple, $1500.0, 10, 16, m2 11th gen, gtx 3070
